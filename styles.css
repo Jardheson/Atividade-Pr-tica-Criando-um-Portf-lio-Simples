@@ -1,0 +1,64 @@
+/* Google Fonts - Aplicando a fonte escolhida */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f8ff; /* Cor de fundo suave */
+    padding: 5%; /* Unidade relativa */
+    margin: 0;
+}
+
+/* Classes para itens da lista de habilidades */
+.skill-html {
+    color: #e44d26; /* Cor oficial do HTML5 */
+    font-weight: bold;
+}
+
+.skill-css {
+    color: #264de4; /* Cor oficial do CSS3 */
+    font-style: italic;
+}
+
+.skill-js {
+    color: #f0db4f; /* Cor oficial do JS */
+    background-color: #323330;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
+/* Seletor Restritivo: Estiliza apenas parágrafos dentro da classe .bio */
+.bio p {
+    line-height: 1.6; /* Unidade adimensional (relativa) */
+    margin-bottom: 1em; /* Unidade relativa */
+}
+
+/* Unidades Absolutas e Relativas */
+h1 {
+    font-size: 36px; /* Unidade absoluta */
+    margin-bottom: 0.5em; /* Unidade relativa */
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px; /* Unidade absoluta */
+}
+
+li {
+    font-size: 1.2rem; /* Unidade relativa à raiz */
+    margin-bottom: 10px; /* Unidade absoluta */
+}
+
+section {
+    margin-bottom: 2em;
+    padding: 1em;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+    margin-top: 2em;
+    padding: 1em;
+    background-color: #2c3e50;
+    color: white;
+    border-radius: 8px;
+}
