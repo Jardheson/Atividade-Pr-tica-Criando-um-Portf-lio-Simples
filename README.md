@@ -2,13 +2,13 @@
 
 Este projeto é uma página web simples criada como parte de uma atividade prática para exercitar conceitos fundamentais de HTML e CSS. O objetivo foi criar um portfólio pessoal aplicando diferentes métodos de estilização.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 *   **HTML5**: Estrutura semântica da página.
 *   **CSS3**: Estilização e layout.
 *   **Google Fonts**: Tipografia personalizada.
 
-## 📚 Conceitos Aplicados
+## Conceitos Aplicados
 
 Durante o desenvolvimento deste projeto, foram colocados em prática os seguintes conceitos abordados em aula:
 
@@ -21,12 +21,12 @@ Durante o desenvolvimento deste projeto, foram colocados em prática os seguinte
 *   **Unidades de Medida**: Aplicação de unidades absolutas (`px`) e relativas (`%`, `em`, `rem`).
 *   **Integração com Google Fonts**: Importação e uso da fonte *Roboto*.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 *   `index.html`: Arquivo principal com a estrutura da página.
 *   `styles.css`: Folha de estilos externa.
 
-## 👤 Autor
+## Autor
 
 **Jardheson Oliveira**
 
